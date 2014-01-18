@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:12.04
 MAINTAINER Manfred Touron m@42.am
 
 RUN apt-get update
